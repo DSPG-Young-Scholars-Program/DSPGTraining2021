@@ -31,3 +31,13 @@
 ##### José Bayoán Santiago Calderón, University of Virginia
 <a href="https://www.youtube.com/watch?v=0bJuLAkRH8c&list=PL5pmbS-xLPOFeiLGKYwunU5EBpFzLd-bJ&index=6" target="_blank">Video</a> | 
 <a href="https://github.com/DSPG-Young-Scholars-Program/DSPGTraining2021/tree/main/modules/06_intro_to_r" target="_blank">Materials</a>
+
+### 07 The 3 Ways of R
+##### Aaron Schroeder, University of Virginia
+<a href="https://www.youtube.com/watch?v=QsD4tDy7ve8&list=PL5pmbS-xLPOFeiLGKYwunU5EBpFzLd-bJ&index=7" target="_blank">Video</a> | 
+<a href="https://github.com/DSPG-Young-Scholars-Program/DSPGTraining2021/tree/main/modules/07_r_three_ways" target="_blank">Materials</a>
+
+### 08 Data Visualization with base R and ggplot2
+##### Ford Ramsey, Virginia Tech
+<a href="https://www.youtube.com/watch?v=MPZJSbH2F4I&list=PL5pmbS-xLPOFeiLGKYwunU5EBpFzLd-bJ&index=8" target="_blank">Video</a> | 
+<a href="https://github.com/DSPG-Young-Scholars-Program/DSPGTraining2021/tree/main/modules/08_data_viz" target="_blank">Materials</a>
