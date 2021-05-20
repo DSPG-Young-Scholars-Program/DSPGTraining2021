@@ -41,3 +41,16 @@
 ##### Ford Ramsey, Virginia Tech
 <a href="https://www.youtube.com/watch?v=MPZJSbH2F4I&list=PL5pmbS-xLPOFeiLGKYwunU5EBpFzLd-bJ&index=8" target="_blank">Video</a> | 
 <a href="https://github.com/DSPG-Young-Scholars-Program/DSPGTraining2021/tree/main/modules/08_data_viz" target="_blank">Materials</a>
+
+### 09 Research Ethics
+##### Sallie Keller, University of Virginia
+##### Stephanie Shipp, University of Virginia
+<a href="https://www.youtube.com/watch?v=jnvJGJz5H3o&list=PL5pmbS-xLPOFeiLGKYwunU5EBpFzLd-bJ&index=9" target="_blank">Video</a> | 
+<a href="https://github.com/DSPG-Young-Scholars-Program/DSPGTraining2021/tree/main/modules/09_ethics" target="_blank">Materials</a>
+
+### 10 Web Scraping
+##### José Bayoán Santiago Calderón, University of Virginia
+<a href="https://www.youtube.com/watch?v=nMI_1xxNfR0&list=PL5pmbS-xLPOFeiLGKYwunU5EBpFzLd-bJ&index=10" target="_blank">Video</a> | 
+<a href="https://github.com/DSPG-Young-Scholars-Program/DSPGTraining2021/tree/main/modules/10_web_scraping" target="_blank">Materials</a>
+
+
